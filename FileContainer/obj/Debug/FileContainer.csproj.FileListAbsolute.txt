@@ -1,0 +1,9 @@
+c:\users\алена\documents\visual studio 2012\Projects\FileContainer\FileContainer\bin\Debug\FileContainer.exe.config
+C:\Users\Алена\Documents\Visual Studio 2012\Projects\FileContainer\FileContainer\obj\Debug\FileContainer.csprojResolveAssemblyReference.cache
+C:\Users\Алена\Documents\Visual Studio 2012\Projects\FileContainer\FileContainer\obj\Debug\FileContainer.Form1.resources
+C:\Users\Алена\Documents\Visual Studio 2012\Projects\FileContainer\FileContainer\obj\Debug\FileContainer.Properties.Resources.resources
+C:\Users\Алена\Documents\Visual Studio 2012\Projects\FileContainer\FileContainer\obj\Debug\FileContainer.csproj.GenerateResource.Cache
+C:\Users\Алена\Documents\Visual Studio 2012\Projects\FileContainer\FileContainer\bin\Debug\FileContainer.exe
+C:\Users\Алена\Documents\Visual Studio 2012\Projects\FileContainer\FileContainer\bin\Debug\FileContainer.pdb
+C:\Users\Алена\Documents\Visual Studio 2012\Projects\FileContainer\FileContainer\obj\Debug\FileContainer.exe
+C:\Users\Алена\Documents\Visual Studio 2012\Projects\FileContainer\FileContainer\obj\Debug\FileContainer.pdb
